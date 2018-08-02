@@ -1,4 +1,4 @@
-# Rest-API-Best-Practices-Spring-
+# Rest-API-Best-Practices 
 
 Why do we need web server in front of application server ?
 https://sethuramanmurali.wordpress.com/2013/06/19/why-we-need-web-server-in-front-of-application-server/
